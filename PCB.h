@@ -27,7 +27,7 @@ class PCB {
 
 
     //not ready yet
-    
+
     int taskDiskAddress;
     int taskMemoryAddress;
     int taskInstructionCount;

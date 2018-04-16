@@ -120,7 +120,7 @@ namespace Simulation {
             cpuReset();
 
             if (currentProgram.size() > MAX) {
-                cout << "Error! Program Counter overload. Max instruction: 255" << endl;
+                cout << "Error! Program Counter overload." << endl;
             } else {
                 while (counter < currentProgram.size()) {
                     regInstruction = currentProgram[counter];

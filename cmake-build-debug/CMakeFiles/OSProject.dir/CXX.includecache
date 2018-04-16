@@ -25,6 +25,8 @@ iostream
 -
 utility
 -
+vector
+-
 
 /Users/coltonteefy/ClionProjects/OSProject/cpu.cpp
 cpu.h
@@ -34,6 +36,8 @@ cpu.h
 iostream
 -
 vector
+-
+string
 -
 
 /Users/coltonteefy/ClionProjects/OSProject/main.cpp
